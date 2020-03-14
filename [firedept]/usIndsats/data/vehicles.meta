@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>police2</modelName>
-      <txdName>police2</txdName>
-      <handlingId>AMBULAN</handlingId>
-      <gameName>police2</gameName>
+      <modelName>usIndsats</modelName>
+      <txdName>usIndsats</txdName>
+      <handlingId>INDSATSLEDER</handlingId>
+      <gameName>usIndsats</gameName>
       <vehicleMakeName>PEGASSI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>COQUETTE</audioNameHash>
       <layout>LAYOUT_LOW_INFERNUS</layout>
       <coverBoundOffsets>ZENTORNO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

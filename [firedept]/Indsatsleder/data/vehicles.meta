@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>SHERIFF</modelName>
-      <txdName>SHERIFF</txdName>
-      <handlingId>SHERIFF</handlingId>
-      <gameName>SHERIFF</gameName>
+      <modelName>indsatsleder</modelName>
+      <txdName>indsatsleder</txdName>
+      <handlingId>INDSATSLEDER</handlingId>
+      <gameName>indsatsleder</gameName>
       <vehicleMakeName>DEWBAUCH</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

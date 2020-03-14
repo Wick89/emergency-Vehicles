@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>SHERIFF</handlingName>
+      <handlingName>INDSATSLEDER</handlingName>
       <fMass value="1800.000000" />
       <fInitialDragCoeff value="8.200000" />
       <fPercentSubmerged value="85.000000" />
