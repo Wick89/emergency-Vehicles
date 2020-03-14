@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>INDSATSLEDER</handlingName>
+      <handlingName>Indsatsleder</handlingName>
       <fMass value="1800.000000" />
       <fInitialDragCoeff value="8.200000" />
       <fPercentSubmerged value="85.000000" />
@@ -50,7 +50,7 @@
       <fSeatOffsetDistZ value="0.000000" />
       <nMonetaryValue value="80000" />
       <strModelFlags>440010</strModelFlags>
-      <strHandlingFlags>0</strHandlingFlags>
+      <strHandlingFlags>1</strHandlingFlags>
       <strDamageFlags>0</strDamageFlags>
       <AIHandling>AVERAGE</AIHandling>
       <SubHandlingData>

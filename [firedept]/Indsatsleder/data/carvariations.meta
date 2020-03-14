@@ -3,7 +3,7 @@
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-<modelName>fbi</modelName>
+<modelName>Indsatsleder</modelName>
   <colors>
     <Item>
       <indices content="char_array">
@@ -106,3 +106,5 @@
   <lightSettings value="1" />
   <sirenSettings value="1" />
 </Item>
+</variationData>
+</CVehicleModelInfoVariation>
